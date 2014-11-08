@@ -11,7 +11,7 @@ Period 6
  * login
   * Mike Zamansky, Partner name
 	* 6/login/foldername
-* regexp
+ * regexp
   * Mike Zamansky, Partner name 
 	* 6/regexp/foldername
  * intro-proj 1
