@@ -12,6 +12,12 @@ Period 6
 Describe your project here
 #### put the https clone link here
 
+### Project 2 name
+#### Team members
+#### Description
+Describe your project here
+#### put the https clone link here
+
 ## Mini Projects
 
  * login
