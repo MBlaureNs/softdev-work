@@ -1,18 +1,18 @@
 Mike Zamansky
 ==========
 
-## Fall Semester
+# Fall Semester
 Period 6
 
-### Main Projects
+## Main Projects
 
-#### Project 1 name
-##### Team members
-##### Description
+### Project 1 name
+#### Team members
+#### Description
 Describe your project here
 #### put the https clone link here
 
-### Mini Projects
+## Mini Projects
 
  * login
   * Mike Zamansky, Partner name
