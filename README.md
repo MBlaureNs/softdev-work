@@ -6,6 +6,13 @@ Period 6
 
 ## Main Projects
 
+### Final Project: gooseboard
+#### Team members
+Lawrence Lim, Hubert Puszklewicz, Thomas Hlebowicz
+#### Description
+Web-based multi-user whiteboard and chat
+#### https://github.com/CookedGoose/gooseboard.git
+
 ### dOTL
 #### Team members
 Lawrence Lim, Terrance Liang, Daniel Zabari, Oliver Zhang
